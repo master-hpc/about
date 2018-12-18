@@ -1,7 +1,5 @@
 <p align="center">
     <img src="assets/master-hpc.png?raw=true">
-    <br>
-    USTHB/CERIST
 </p>
 
 # Master HPC - USTHB/CERIST
